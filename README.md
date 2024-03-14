@@ -15,7 +15,7 @@
 
 - 🤝 🔭 I’m currently working on **slack clone**
 
-- 👨‍💻 All of my projects are available at [https://lollyportfolio.netlify.app](https://lollyportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://lollyportfolio.netlify.app](https://sanya-ololade-portfolio.vercel.app/)
 
 - 💬 I am a Fullstack Developer with 2years of experience also a problem solver aka LollyJS || A javascript developer **react Nodejs Expressjs MongoDB Nextjs Tailwindcss Styled-Components Fremer-Motion**
 
