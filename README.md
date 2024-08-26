@@ -7,13 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/sanya_ololade" target="blank"><img src="https://img.shields.io/twitter/follow/sanya_ololade?logo=twitter&style=for-the-badge" alt="sanya_ololade" /></a> </p>
 
-- 🔭 I’m currently working on **Linked in clone**
 
-- 🌱 I’m currently learning **Angular, Vue and Tensorflowjs**
-
-- 🔭 I’m currently working on **Instagram clone**
-
-- 🤝 🔭 I’m currently working on **slack clone**
+- 🌱 I’m currently learning Tensorflowjs**
 
 - 👨‍💻 All of my projects are available at [https://sanya-ololade-portfolio.vercel.app/](https://sanya-ololade-portfolio.vercel.app/)
 
